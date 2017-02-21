@@ -10,6 +10,7 @@ E(g)$weight <- 1
 g <- g - vertex("Unknown")
 g <- g - vertex("Other")
 g <- g - vertex("Individual")
+g <- g - vertex("Gunmen")
 # we don't want two groups who collaborated with unknown individuals to be
 # considered one degree of separation on that basis XD
 
@@ -57,6 +58,7 @@ largest_cliques(g)
 fg <- fastgreedy.community(g)
 colors <- rainbow(max(membership(fg)))
 V(g)$label.cex <- .3
+V(g)$name <- V(g)$index
 V(g)[realname=="Al-Qaeda"]$name <- "AQ"
 V(g)[realname=="Al-Qaeda"]$label.cex <- .5
 V(g)[realname=="Al-Qaeda"]$label.color <- "white"
@@ -72,6 +74,5 @@ V(g)[realname=="Boko Haram"]$label.color <- "white"
 V(g)[realname=="Islamic State of Iraq and the Levant (ISIL)"]$name <- "IS"
 V(g)[realname=="Islamic State of Iraq and the Levant (ISIL)"]$label.cex <-.5
 V(g)[realname=="Islamic State of Iraq and the Levant (ISIL)"]$label.color <- "white"
-V(g)$name <- V(g)$index
 plot(g,vertex.color=colors[membership(fg)], layout=layout.fruchterman.reingold,
 vertex.size=5)
