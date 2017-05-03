@@ -11,7 +11,7 @@ g <- g - vertex("Unknown")
 g <- g - vertex("Other")
 g <- g - vertex("Individual")
 g <- g - vertex("Gunmen")
-# we don't want two groups who collaborated with unknown individuals to be
+# we dont want two groups who collaborated with unknown individuals to be
 # considered one degree of separation on that basis XD
 
 g <- simplify(g, remove.multiple = TRUE, remove.loops = TRUE,
