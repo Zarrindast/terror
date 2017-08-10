@@ -1,0 +1,873 @@
+  [1] "Armed Commandos of Liberation"
+
+  [2] "Japanese Red Army (JRA)"
+
+  [3] "Popular Front for the Liberation of Palestine (PFLP)"
+
+  [4] "Independent Armed Revolutionary Commandos (CRIA)"
+
+  [5] "Palestine Liberation Organization (PLO)"
+
+  [6] "Macheteros"
+
+  [7] "United Popular Action Front (FAPU)"
+
+  [8] "International Committee Against Nazism"
+
+  [9] "Palestine Liberation Front (PLF)"
+
+ [10] "Workers' Self-Defense Movement (MAO)"
+
+ [11] "People's Liberation Forces (FPL)"
+
+ [12] "People's Revolutionary Army (ERP) (El Salvador)"
+
+ [13] "Counter-revolutionaries"
+
+ [14] "M-19 (Movement of April 19)"
+
+ [15] "Armed Forces of Popular Resistance (FARP)"
+
+ [16] "Armenian Secret Army for the Liberation of Armenia"
+
+ [17] "Awami League"
+
+ [18] "Communists"
+
+ [19] "New People's Army (NPA)"
+
+ [20] "Revolutionary Armed Forces of Colombia (FARC)"
+
+ [21] "Anti-Communist Viets Organization"
+
+ [22] "Al Jihad"
+
+ [23] "Iraqi Liberation Army"
+
+ [24] "Farabundo Marti National Liberation Front (FMLN)"
+
+ [25] "Fuerzas Armadas de Liberacion Nacional (FALN)"
+
+ [26] "Congolese National Movement- Lumumba (MNCL)"
+
+ [27] "New Order"
+
+ [28] "Ricardo Franco Front (Dissident FARC)"
+
+ [29] "Lebanese National Resistance Front"
+
+ [30] "Syrian Social Nationalist Party"
+
+ [31] "Anti-American Arab Liberation Front"
+
+ [32] "National Liberation Army of Colombia (ELN)"
+
+ [33] "Shining Path (SL)"
+
+ [34] "Tupac Amaru Revolutionary Movement (MRTA)"
+
+ [35] "America Battalion"
+
+ [36] "Cinchoneros Popular Liberation Movement"
+
+ [37] "Burma Communist Party"
+
+ [38] "Cali Narcotics Cartel"
+
+ [39] "Revolutionary People's Struggle (ELA)"
+
+ [40] "United Popular Action Movement"
+
+ [41] "White Wolves"
+
+ [42] "Palestinian Islamic Jihad (PIJ)"
+
+ [43] "1 May"
+
+ [44] "Ejercito Revolucionaria del Pueblo (ERP) (Argentina)"
+
+ [45] "Armed Falange"
+
+ [46] "Recontras"
+
+ [47] "Medellin Drug Cartel"
+
+ [48] "Red Dawn Front (Frente Amanecer Rojo)"
+
+ [49] "Kurdistan Workers' Party (PKK)"
+
+ [50] "Al Jehad"
+
+ [51] "Paupa New Guinea Troops"
+
+ [52] "Muttahida Qami Movement (MQM)"
+
+ [53] "Lord's Resistance Army (LRA)"
+
+ [54] "Animal Liberation Front (ALF)"
+
+ [55] "Hizballah"
+
+ [56] "Red Flag (Venezuela)"
+
+ [57] "Jammu and Kashmir Islamic Front"
+
+ [58] "Ikhwan Jammu and Kashmir"
+
+ [59] "Earth Liberation Front (ELF)"
+
+ [60] "Moro National Liberation Front (MNLF)"
+
+ [61] "May 98"
+
+ [62] "White Legion (Georgia)"
+
+ [63] "Revolutionary United Front (RUF)"
+
+ [64] "Moro Islamic Liberation Front (MILF)"
+
+ [65] "Lashkar-e-Taiba (LeT)"
+
+ [66] "New Revolutionary Alternative (NRA)"
+
+ [67] "Combat 18"
+
+ [68] "Besi Merah Putih Militia"
+
+ [69] "Hells Angels"
+
+ [70] "Hizbul Mujahideen (HM)"
+
+ [71] "Anarchist Faction"
+
+ [72] "National Liberation Army (Ecuador)"
+
+ [73] "Revenge of the Trees"
+
+ [74] "Borana bandits"
+
+ [75] "National Socialist Council of Nagaland-Isak-Muivah (NSCN-IM)"
+
+ [76] "Palestinian Hezbollah"
+
+ [77] "All Tripura Tiger Force (ATTF)"
+
+ [78] "Jamiat ul-Mujahedin (JuM)"
+
+ [79] "Abu Sayyaf Group (ASG)"
+
+ [80] "Gunmen"
+
+ [81] "Hamas (Islamic Resistance Movement)"
+
+ [82] "National Council for Defense of Democracy (NCDD)"
+
+ [83] "Armed Islamic Group (GIA)"
+
+ [84] "National Liberation Army (NLA) (Macedonia)"
+
+ [85] "Popular Army Vanguards- Battalions of Return"
+
+ [86] "Democratic Front for the Liberation of Palestine (DFLP)"
+
+ [87] "Mayi Mayi"
+
+ [88] "Al-Aqsa Martyrs Brigade"
+
+ [89] "Salafist Group for Preaching and Fighting (GSPC)"
+
+ [90] "Red Hand Defenders (RHD)"
+
+ [91] "Harkatul Jihad-e-Islami"
+
+ [92] "Jaish-e-Mohammad (JeM)"
+
+ [93] "Popular Resistance Committees"
+
+ [94] "Taliban"
+
+ [95] "Irish Republican Army (IRA)"
+
+ [96] "National Democratic Front of Bodoland (NDFB)"
+
+ [97] "Al-Arifeen"
+
+ [98] "Al-Qaeda"
+
+ [99] "Jemaah Islamiya (JI)"
+
+[100] "Special Purpose Islamic Regiment (SPIR)"
+
+[101] "Al Nasirin (India)"
+
+[102] "White Legion (Ecuador)"
+
+[103] "Students Islamic Movement of India (SIMI)"
+
+[104] "Saif-ul-Muslimeen"
+
+[105] "Party for the Liberation of the Hutu People (PALIPEHUTU)"
+
+[106] "Lashkar-e-Jhangvi"
+
+[107] "Tawhid and Jihad"
+
+[108] "Mujahedeen Group"
+
+[109] "Islamic Jihad Group (IJG)"
+
+[110] "Kurdistan Freedom Hawks (TAK)"
+
+[111] "United Liberation Front of Assam (ULFA)"
+
+[112] "Abdullah Azzam Brigades"
+
+[113] "Liberation Tigers of Tamil Eelam (LTTE)"
+
+[114] "Al-Qaeda in Iraq"
+
+[115] "1920 Revolution Brigades"
+
+[116] "Mujahedeen Army"
+
+[117] "Ansar al-Sunna"
+
+[118] "Al-Mansoorian"
+
+[119] "Mahsud Tribe"
+
+[120] "Al-Nasireen Group"
+
+[121] "Al-Ittihaad al-Islami (AIAI)"
+
+[122] "Karen National Union"
+
+[123] "Arbav Martyrs of Khuzestan"
+
+[124] "Sipah-e-Sahaba/Pakistan (SSP)"
+
+[125] "Al-Qaeda in Yemen"
+
+[126] "Islamic Front"
+
+[127] "al-Fatah"
+
+[128] "People's Tamil Organization"
+
+[129] "Janatantrik Terai Mukti Morcha- Jwala Singh (JTMM-J)"
+
+[130] "Movement for the Emancipation of the Niger Delta (MEND)"
+
+[131] "Justice and Equality Movement (JEM)"
+
+[132] "Terai Army"
+
+[133] "Real Irish Republican Army (RIRA)"
+
+[134] "Al-Shabaab"
+
+[135] "Samyukta Janatantrik Terai Mukti Morcha (SJTMM)"
+
+[136] "Ogaden National Liberation Front (ONLF)"
+
+[137] "Conqueror Army"
+
+[138] "People's Revolutionary Party of Kangleipak (PREPAK)"
+
+[139] "Ahrar Al-Jalil (Free People of the Galilee)"
+
+[140] "14 March Coalition"
+
+[141] "Janatantrik Terai Mukti Morcha- Rajan Mukti (JTMM-R)"
+
+[142] "Niger Delta Vigilante (NDV)"
+
+[143] "Dima Halao Daoga (DHD)"
+
+[144] "Indian Mujahideen"
+
+[145] "Madhesi People‚Äôs Rights Forum (MPRF)"
+
+[146] "Revolutionary Struggle"
+
+[147] "Black Widows"
+
+[148] "Deccan Mujahideen"
+
+[149] "Communist Party of Nepal- Unified Marxist-Leninist (CPN-UML)"
+
+[150] "Kata'ib al-Khoul"
+
+[151] "Islamic Army in Iraq (al-Jaish al-Islami fi al-Iraq)"
+
+[152] "Gangs of Conscience"
+
+[153] "Islamic State of Iraq (ISI)"
+
+[154] "Communist Party of India - Maoist (CPI-Maoist)"
+
+[155] "Mahdi Army"
+
+[156] "Nepal Defense Army"
+
+[157] "Lashkar-e-Islam (Pakistan)"
+
+[158] "Haqqani Network"
+
+[159] "Conspiracy of Cells of Fire"
+
+[160] "Revolutionary Continuity"
+
+[161] "People's Committee against Police Atrocities (PCPA)"
+
+[162] "Terai Janatantrik Madhes Party"
+
+[163] "Tehrik-i-Taliban Pakistan (TTP)"
+
+[164] "Ansar Al Sunnah (Palestine)"
+
+[165] "Sisters in Arms"
+
+[166] "People's Liberation Front of India"
+
+[167] "Sudan People's Liberation Army (SPLA)"
+
+[168] "Al-Qaeda in the Arabian Peninsula (AQAP)"
+
+[169] "Jamaat-E-Islami (India/Pakistan)"
+
+[170] "Hizbul al Islam (Somalia)"
+
+[171] "Arab Socialist Baath Party of Iraq"
+
+[172] "Adivasi People's Army (APA)"
+
+[173] "Garo National Liberation Army"
+
+[174] "Zeliangrong United Front"
+
+[175] "Eritrean Salvation Front (ESF)"
+
+[176] "Al-Qaeda in the Lands of the Islamic Maghreb (AQLIM)"
+
+[177] "Urban Guerrilla War"
+
+[178] "Samyukta Jatiya Mukti Morcha (SJMM)"
+
+[179] "Movement for Oneness and Jihad in West Africa (MUJAO)"
+
+[180] "Southern Mobility Movement (Yemen)"
+
+[181] "Ansar al-Dine (Mali)"
+
+[182] "Mujahedeen Shura Council in the Environs of Jerusalem"
+
+[183] "Boko Haram"
+
+[184] "Free Syrian Army"
+
+[185] "Ansar al-Sharia (Libya)"
+
+[186] "People's Liberation Army (India)"
+
+[187] "Tajamo Ansar al-Islam"
+
+[188] "Ansar al-Islam"
+
+[189] "Allied Democratic Forces (ADF)"
+
+[190] "Al-Nusrah Front"
+
+[191] "Popular Front for Recovery (FPR)"
+
+[192] "Militant Minority (Greece)"
+
+[193] "Wild Freedom"
+
+[194] "Jamaat-E-Islami (Bangladesh)"
+
+[195] "Real Ulster Freedom Fighters (UFF) - Northern Ireland"
+
+[196] "Informal Anarchist Federation"
+
+[197] "National Democratic Front-Bicol (NDF-Bicol)"
+
+[198] "Al Ummah"
+
+[199] "Tribesmen"
+
+[200] "Islamic State of Iraq and the Levant (ISIL)"
+
+[201] "Jundallah"
+
+[202] "Bangsamoro Islamic Freedom Movement (BIFM)"
+
+[203] "Angry Foxes Cell"
+
+[204] "Punjabi Taliban"
+
+[205] "Ansar Bayt al-Maqdis (Ansar Jerusalem)"
+
+[206] "Al-Shuda Brigade"
+
+[207] "Ayesha bint al-Sadiq Brigade"
+
+[208] "Hizb-I-Islami"
+
+[209] "David Yau Yau Militia"
+
+[210] "Achik National Volunteer Council-B (ANVC-B)"
+
+[211] "Libya Shield Force"
+
+[212] "A'chik Tiger Force"
+
+[213] "National Liberation Council of Taniland"
+
+[214] "Islamic Front (Syria)"
+
+[215] "Tarok Militia"
+
+[216] "Tehrik-e-Khilafat"
+
+[217] "al-Mua'qi'oon Biddam Brigade (Those who Sign with Blood)"
+
+[218] "Baloch Republican Army (BRA)"
+
+[219] "Biafra Zionist Movement (BZM)"
+
+[220] "Liberation and Justice Movement (LJM)"
+
+[221] "Baloch Liberation Army (BLA)"
+
+[222] "Raskamboni Movement"
+
+[223] "Ajnad Misr"
+
+[224] "Liwa Ahrar al-Sunna"
+
+[225] "Military Council of the Tribal Revolutionaries (MCTR)"
+
+[226] "United Baloch Army (UBA)"
+
+[227] "Orakzai Freedom Movement"
+
+[228] "Balochistan Liberation United Front (BLUF)"
+
+[229] "United Karbi Liberation Army (UKlA)"
+
+[230] "A'chik Songna An'pachakgipa Kotok (ASAK)"
+
+[231] "Rafallah al-Sahati Brigade"
+
+[232] "Huthis"
+
+[233] "Baloch Liberation Front (BLF)"
+
+[234] "Libya Revolutionaries Operations Room (lROR)"
+
+[235] "Al-Qaqa Brigade"
+
+[236] "Okba Ibn Nafaa Brigade"
+
+[237] "Janjaweed"
+
+[238] "Dissident Republicans"
+
+[239] "Seleka"
+
+[240] "Asa'ib Ahl al-Haqq"
+
+[241] "Shura Council of Benghazi Revolutionaries"
+
+[242] "Al-Naqshabandiya Army"
+
+[243] "National Liberation Front of Tripura (NLFT)"
+
+[244] "Popular Liberation Army (EPL)"
+
+[245] "Fulani Militants"
+
+[246] "Al-Sawaiq Brigade"
+
+[247] "Tripoli Province of the Islamic State"
+
+[248] "Achik National Cooperative Army (ANCA)"
+
+[249] "Jamaat-ul-Ahrar"
+
+[250] "Al Ashtar Brigades"
+
+[251] "Boricuan Armed Anti-Imperialist Commandos"
+
+[252] "Armed Struggle Organization"
+
+[253] "Red Brigades"
+
+[254] "Quintin Lame"
+
+[255] "Organization of Volunteers for the Puerto Rican Revolution"
+
+[256] "Fighting Guerrillas of May"
+
+[257] "Chechen Rebels"
+
+[258] "Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs"
+
+[259] "Harakat ul-Mujahidin (HuM)"
+
+[260] "Islamic Movement of Uzbekistan (IMU)"
+
+[261] "Egyptian Tawhid and Jihad"
+
+[262] "Black Banner Brigade"
+
+[263] "Shan State Army"
+
+[264] "al-Ahwaz Arab People's Democratic Front"
+
+[265] "Islamic Jihad (Ideological Grouping)"
+
+[266] "Instigators of Social Explosion"
+
+[267] "Kilafah Islamic Movement"
+
+[268] "Ahrar al-Sham"
+
+[269] "Mujahideen Ansar"
+
+[270] "Island Brigade (Libya)"
+
+[271] "Al-Qaeda in the Indian Subcontinent"
+
+[272] "Lashkar-e-Jarrar"
+
+[273] "Halqa-e-Mehsud"
+
+[274] "Armed Revolutionary Independence Movement (MIRA)"
+
+[275] "Carlos the Jackal"
+
+[276] "Puerto Rican Nationalists"
+
+[277] "Revolutionary Student Movement (MER)"
+
+[278] "Jewish Action Movement"
+
+[279] "Abu Baker Martyr Group"
+
+[280] "Armed Forces of National Resistance (FARN)"
+
+[281] "Ex-Somoza National Guard"
+
+[282] "Justice Commandos for the Armenian Genocide"
+
+[283] "The Mukti Bahini"
+
+[284] "Palestinians"
+
+[285] "Vietnamese Organization to Exterminate Communists and Restore the Nation"
+
+[286] "al-Gama'at al-Islamiyya (IG)"
+
+[287] "al-Da'wah Party"
+
+[288] "Democratic Revolutionary Front (FDR)"
+
+[289] "Zairean Socialist Party"
+
+[290] "Red Army Faction (RAF)"
+
+[291] "Movement of the Revolutionary Left (MIR) (Peru)"
+
+[292] "Omar Torrijos Commando for Latin American Dignity"
+
+[293] "Patriotic Morazanista Front (FPM)"
+
+[294] "The Extraditables"
+
+[295] "Popular Militia (Chile)"
+
+[296] "Afrikaner Resistance Movement (AWB)"
+
+[297] "Force 17"
+
+[298] "Montoneros (Argentina)"
+
+[299] "Recompras"
+
+[300] "Fatherland for the Poor"
+
+[301] "Turkish Communist Party/Marxist (TKP-ML)"
+
+[302] "Bougainville Revolutionary Army (BRA)"
+
+[303] "Shiite Muslims"
+
+[304] "West Nile Bank Front (WNBF)"
+
+[305] "Palestinian Islamic Revolutionary Army"
+
+[306] "Revolutionary Bolivariano Movement 200"
+
+[307] "Harkat ul Ansar"
+
+[308] "Muslim Mujahideen"
+
+[309] "Forest Brothers"
+
+[310] "Armed Forces Revolutionary Council (AFRC)"
+
+[311] "White Wolves (UK)"
+
+[312] "Aitarak Militia"
+
+[313] "Nationalsocialistisk Front (NSF)"
+
+[314] "Al-Badr"
+
+[315] "Revolutionaries of the Streets"
+
+[316] "Grupo de Combatientes Populares"
+
+[317] "Oromo Liberation Front"
+
+[318] "United People's Democratic Solidarity (UPDS)"
+
+[319] "Albanian Liberation Army"
+
+[320] "People's Revolutionary Army (ERP)"
+
+[321] "People's Army's Pioneers"
+
+[322] "Hutus"
+
+[323] "Ulster Freedom Fighters (UFF)"
+
+[324] "Asif Raza Commandos"
+
+[325] "Ulster Volunteer Force (UVF)"
+
+[326] "Al-Madina"
+
+[327] "Adan Abyan Islamic Army (AAIA)"
+
+[328] "Save Kashmir Movement"
+
+[329] "People's Revolutionary Militias (MRP)"
+
+[330] "Lashkar-e-Fidayan-e-Islam"
+
+[331] "Tehreek-e-Jehad-e-Islami"
+
+[332] "Free Aceh Movement (GAM)"
+
+[333] "Forces for the Defense of Democracy (FDD)"
+
+[334] "Great Eastern Islamic Raiders Front (IBDA-C)"
+
+[335] "Maoist Communist Party (MKP)"
+
+[336] "Colonel Karuna Faction"
+
+[337] "Jihad Martyr's Companies in Iraq"
+
+[338] "Takfir wal-Hijra (Excommunication and Exodus)"
+
+[339] "Islamic Jihad Front"
+
+[340] "Janatantrik Terai Mukti Morcha- Goit (JTMM-G)"
+
+[341] "Niger Delta People's Volunteer Force (NDPVF)"
+
+[342] "Karbi Longri North Cachar Liberation Front (KLNLF)"
+
+[343] "Minawi's faction forces."
+
+[344] "Nepal People's Army"
+
+[345] "Irish National Liberation Army (INLA)"
+
+[346] "Mujahideen Youth Movement (MYM)"
+
+[347] "Jaysh al-Muslimin (Army of the Muslims)"
+
+[348] "Madhesi Mukti Tigers (MMT)"
+
+[349] "Jund al-Sham for Tawhid and Jihad"
+
+[350] "People's United Liberation Front (PULF)"
+
+[351] "8 March Coalition"
+
+[352] "National Socialist Council of Nagaland-Khaplang (NSCN-K)"
+
+[353] "United Self Defense Units of Colombia (AUC)"
+
+[354] "Janatantrik Terai Mukti Morcha- Ranbir Singh (JTMM-RS)"
+
+[355] "Niger Delta Patriotic Force"
+
+[356] "Madhesi Liberation Front"
+
+[357] "Armed Revolutionary Action (ENEDRA)"
+
+[358] "Young Communist League"
+
+[359] "Ahlu-sunah Wal-jamea (Somalia)"
+
+[360] "Los Rastrojos (Colombia)"
+
+[361] "Revolutionary Nuclei"
+
+[362] "Terai Janatantrik Party (TJP)"
+
+[363] "Democratic Front for the Liberation of Rwanda (FDLR)"
+
+[364] "Terrorists Guerrilla Group"
+
+[365] "Al-Shabaab al-Mu'minin"
+
+[366] "Khatm-e-Nabuwat (KeN)"
+
+[367] "Amr Bil Maroof Wa Nahi Anil Munkir"
+
+[368] "Achik National Volunteer Council (ANVC)"
+
+[369] "Red Sea Afar Democratic Organization (RSADO)"
+
+[370] "Abu Hafs Katibatul al-Ghurba al-Mujahideen"
+
+[371] "February 12 Movement"
+
+[372] "United Ethnic Liberation Front (UELF)"
+
+[373] "Jund al-Khilafa"
+
+[374] "Liwa al-Islam"
+
+[375] "United National Liberation Front (UNLF)"
+
+[376] "National Army for the Liberation of Uganda (NALU)"
+
+[377] "Convention of Patriots for Justice and Peace"
+
+[378] "Circle of Violators/Nucleus Lovers of Anomy"
+
+[379] "United A'chik Liberation Army (UALA)"
+
+[380] "Ansarullah Bangla Team"
+
+[381] "Loyalist Volunteer Forces (LVF)"
+
+[382] "International Revolutionary Front"
+
+[383] "Syrian Resistance"
+
+[384] "Jaish Usama"
+
+[385] "Jamat al-Tawhid wal-Qisas"
+
+[386] "Ansar al-Sharia (Tunisia)"
+
+[387] "Sudan People's liberation Movement - North"
+
+[388] "Jaish al-Muhajireen wal-Ansar (Muhajireen Army)"
+
+[389] "Baloch Nationalists"
+
+[390] "All Coppers Are Bastards (ACAB)"
+
+[391] "Jund al-Islam"
+
+[392] "Separatists"
+
+[393] "Murle Tribe"
+
+[394] "Rabha National Security Force"
+
+[395] "Sipah-I-Mohammed"
+
+[396] "Mahaz Fedai Tahrik Islami Afghanistan"
+
+[397] "Maoists"
+
+[398] "Hadramawt Tribes Alliance"
+
+[399] "Greater Damascus Operations Room"
+
+[400] "Southern Front"
+
+[401] "Baloch Waja Liberation Army (BWLA)"
+
+[402] "Movement for the Actualization of the Sovereign State of Biafra (MASSOB)"
+
+[403] "Muslim Brotherhood"
+
+[404] "Sudan Liberation Army-Minni Minawi (SLA-MM)"
+
+[405] "November 17 Revolutionary Organization (N17RO)"
+
+[406] "Al Furqan Brigades"
+
+[407] "Karbi People's Liberation Tigers (KPLT)"
+
+[408] "Mombasa Republican Council (MRC)"
+
+[409] "Democratic Union Party (PYD)"
+
+[410] "Loyalists"
+
+[411] "Bru Democratic Front of Mizoram (BDFM)"
+
+[412] "Anti-Balaka Militia"
+
+[413] "Odua Peoples' Congress (OPC)"
+
+[414] "Ansar al-Din Front"
+
+[415] "Guerrilla Column 29 September"
+
+[416] "Lebanese Resistance Group"
+
+[417] "Armed Revolutionary Nuclei (NAR)"
+
+[418] "SKIF Detachment"
+
+[419] "Umar al-Mukhtar Martyr Forces"
+
+[420] "Al Barq"
+
+[421] "Islamic International Peacekeeping Brigade (IIPB)"
+
+[422] "Tanzim"
+
+[423] "Hizb al-Tahrir al-Islami (HT)"
+
+[424] "Jamaa Al-Islamiya Al-Alamiya (World Islamist Group)"
+
+[425] "Mutassim Bellah Brigade"
+
+[426] "Rajah Solaiman Revolutionary Movement"
+
+[427] "Farzandan-e-Millat"
+
+[428] "Karenni National Progressive Party"
+
+[429] "Armed Renaissance Group of Ahvaz"
+
+[430] "Sirri Powz"
+
+[431] "Al-Qassam Brigades"
+
+[432] "313 Brigade"
+
+[433] "Zwai Tribe"
+
+[434] "Misrata Brigades"
+
+[435] "Azawad National Liberation Movement (MNLA)"
+
+[436] "Lashkar-e-Balochistan"
+
+[437] "Haftar Militia"
