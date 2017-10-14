@@ -1,5 +1,3 @@
-
-
 import numpy as np;
 import pandas as pd;
 import os;
@@ -7,7 +5,7 @@ import networkx as nx;
 from networkx.utils import open_file, make_str;
 print os.getcwd()
 
-data = pd.read_csv("/Users/jesse/Desktop/gtd.csv", low_memory = False);
+data = pd.read_csv("[LOCATION].csv", low_memory = False);
 datacoord = data[data.gname.notnull() & data.gname2.notnull()];
 dcmini = datacoord.loc[:,['ID', 'iyear', 'imonth', 'gname', 'gname2', 'gname3']];
 perp_list.to_csv('perp_list.csv');
