@@ -1,6 +1,4 @@
-# Wrote this on a deadline, only for its results, at a time when I knew very little Python. 
-# I should have taken the time to learn basics and iterate properly. 
-# Someday (soon?) I will go back and clean this up.
+# First Python project (/file, really) ever.
 
 import numpy as np;
 import pandas as pd;
