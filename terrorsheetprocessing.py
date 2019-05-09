@@ -107,12 +107,14 @@ df2['targ'] = (df2['targtype1_txt']+df2['targtype2_txt']+df2['targtype3_txt'])/3
 df2.targtype2_txt
 df2.targtype3_txt
 
-# comment coming
+# boolean value; is at least one of the perps NOT "unknown"
 df2['perpknown'] = np.where(df2['gname'] == 2, 0, 1);
+# boolean value; are there at least two (unique) perpetrators
 df2['coord'] = np.where(((df2['gname2'].notnull() | df2['gname3'].notnull()) | (df2['gname2'].notnull() & df2['gname3'].notnull())), 1, 0);
+# boolean value; is at least one of the perpetrators of the same nationality as the location of the incident
 df2['perplocal'] = np.where((df2['natlty1'] == df2['region_gtdcode']) | (df2['natlty2'] == df2['region_gtdcode']) | (df2['natlty3'] == df2['region_gtdcode']), 1, 0);
 
-# comment coming
+# boolean values; indicates that at least one of the weapons used in the incident is of the type indicated (e.g. chemical)
 df2['weapbiological'] = np.where((df2['weaptype1_code'] == 1) | (df2['weaptype2_code'] == 1) | (df2['weaptype3_code'] == 1) | (df2['weaptype4_code'] == 1), 1, 0);
 df2['weapchemical'] = np.where((df2['weaptype1_code'] == 2) | (df2['weaptype2_code'] == 2) | (df2['weaptype3_code'] == 2) | (df2['weaptype4_code'] == 2), 1, 0);
 df2['weapradiological'] = np.where((df2['weaptype1_code'] == 3) | (df2['weaptype2_code'] == 3) | (df2['weaptype3_code'] == 3) | (df2['weaptype4_code'] == 3), 1, 0);
@@ -129,7 +131,7 @@ df2['weapunknown'] = np.where((df2['weaptype1_code'] == 13) | (df2['weaptype2_co
 
 # comment coming
 df2 = df2.apply(pd.to_numeric, errors='coerce');
-# comment coming
+# boolean values; indicates that at least one of the types of attacks is as indicated (e.g. a bomb/explosion)
 df2['attackassassination'] = np.where((df2['attacktype1_code'] == 1) | (df2['attacktype2_code'] == 1) | (df2['attacktype3_code'] == 1), 1, 0);
 df2['attackarmedassault'] = np.where((df2['attacktype1_code'] == 2) | (df2['attacktype2_code'] == 2) | (df2['attacktype3_code'] == 2), 1, 0);
 df2['attackbomborexplosion'] = np.where((df2['attacktype1_code'] == 3) | (df2['attacktype2_code'] == 3) | (df2['attacktype3_code'] == 3), 1, 0);
@@ -145,7 +147,7 @@ df2['intragroup'] = np.where((df2['alternative'] == 3), 1, 0);
 df2['intllogcf'] = np.where((df2['INT_LOG'] == 1), 1, 0);
 # comment coming
 df3 = df2;
-df4= df3[df3.alternative != 4];
+df4 = df3[df3.alternative != 4];
 df4 = df3.loc[:,['iyear', 'imonth', 'extended', 'lat', 'long',
 'crit1', 'crit2', 'crit3', 'multiple', 'success', 'suicide', 'perpknown', 'perplocal',
 'targ', 'coord', 'weapbiological', 'weapchemical', 'weapradiological', 'weapnuclear', 'weapfirearms', 'weapexplosive', 'weapfake', 'weapincendiary',
