@@ -1,4 +1,5 @@
-# First Python project (/file, really) ever.
+# First Python project (/file, really) ever. This thing is ancient so excuse redundancy; 
+# at this point in the game it's more important for me to optimize/condense later documents.
 
 import numpy as np;
 import pandas as pd;
