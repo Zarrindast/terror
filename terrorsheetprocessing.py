@@ -1,5 +1,3 @@
-# First Python project (/file, really) ever. This thing is ancient so excuse redundancy; 
-# at this point in the game it's more important for me to optimize/condense later documents.
 
 import numpy as np;
 import pandas as pd;
@@ -21,8 +19,7 @@ e2 = datacoord.ix[:,['gname2', 'gname3']];
 e3 = datacoord.ix[:,['gname', 'gname3']];
 
 # rename the pair members as something clearer for our purpose: nodes of a graph.
-# this should be accomplished with iteration over indexed nodes ("coordinates") of each indexed edge
-# not like this 
+
 e1['node1'] = e1['gname'];
 e1['node2'] = e1['gname2'];
 e1 = e1.ix[:,['node1','node2']];
@@ -69,6 +66,8 @@ test = e.replace(to_replace=perp_list, )
 # recalling what we have...
 print("Total rows: {0}".format(len(data)));
 print(list(data));
+
+# the type of target of the terrorism is indicated by the preexisting dataset.
 # quantify the traits. 1 is least governmental, 3 is most. 
 data = data.replace(to_replace='Private Citizens & Property', value=1);
 data = data.replace(to_replace='Journalists & Media', value=1);
@@ -90,16 +89,18 @@ data = data.replace(to_replace='Government (General)', value=3);
 data = data.replace(to_replace='Police', value=3);
 data = data.replace(to_replace='Military', value=3);
 data = data.replace(to_replace='Government (Diplomatic)', value=3);
-# setting unknown and other to 2 because averaging will come into play. 
+
+# setting unknown and other to 2 for imputation purposes. 
 # it's not great, but it's better than picking 3 or 1
 # or giving up those data points
+
 data = data.replace(to_replace='Unknown', value=2);
 data = data.replace(to_replace='Other', value=2);
 
-#comment coming
+# numeric dtype
 data = data.apply(pd.to_numeric, errors='coerce');
-# comment coming
 df2 = data;
+
 # comment coming
 df2['targtype3_txt'] = np.where((df2['targtype3_txt'].isnull()) & (df2['targtype2_txt'].notnull()), (df2['targtype1_txt'] + df2['targtype2_txt'])/2, df2['targtype3_txt']);
 df2['targtype3_txt'] = np.where((df2['targtype3_txt'].isnull()) & (df2['targtype2_txt'].isnull()), df2['targtype1_txt'], df2['targtype3_txt']);
@@ -146,6 +147,7 @@ df2['attackhostage'] = np.where((df2['attackhostagebarr'] == 1) | (df2['attackho
 df2['attackassault'] = np.where((df2['attackarmedassault'] == 1) | (df2['attackunarmedassault'] == 1), 1, 0);
 df2['intragroup'] = np.where((df2['alternative'] == 3), 1, 0);
 df2['intllogcf'] = np.where((df2['INT_LOG'] == 1), 1, 0);
+
 # comment coming
 df3 = df2;
 df4 = df3[df3.alternative != 4];
@@ -155,6 +157,7 @@ df4 = df3.loc[:,['iyear', 'imonth', 'extended', 'lat', 'long',
 'weapmelee', 'weapvehicle', 'weapsabotage', 'weapother', 'weapunknown', 'attackassassination', 'attackarmedassault',
 'attackbomborexplosion', 'attackhijacking', 'attackhostagebarr', 'attackhostagemove', 'attackinfra',
 'attackunarmedassault', 'attackunknown', 'attackhostage', 'attackassault']];
+
 # comment coming
 df5 = df4.dropna();
 df5.to_csv('gtdrefined.csv');
